@@ -1,7 +1,7 @@
 .container-big-card {
     margin-left: 10px;
     margin-right: 10px;
-    width: 480px; /*voltar para 600px*/
+    width: 600px; /*voltar para 600px*/
     height: 100%;
 
     display: flex;
