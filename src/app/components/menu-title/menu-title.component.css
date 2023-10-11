@@ -1,10 +1,10 @@
-.menu-title-container{
+.menu-title-container {
     color: rgb(222, 239, 255);
     margin-top: 20px;
     margin-bottom: 20px;
 }
 
-.menu-title-container > h1{
+.menu-title-container>h1 {
     margin-top: 15px;
     margin-bottom: 15px;
     font-size: 80pt;
